@@ -13,8 +13,8 @@ def index():
         pass
     
     if request.method == 'POST':
-        request.form.get('name')
-        request.form.get('post')
+        name = request.form.get('name')
+        post = request.form.get('post')
         create_post(name, post)
 
     posts = get_posts()
