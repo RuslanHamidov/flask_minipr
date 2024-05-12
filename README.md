@@ -1,3 +1,5 @@
+
+![alt text](https://mertcangokgoz.com/wp-content/uploads/2018/11/flask-fhd.png)
 # Flask Content Posting Project
 
 This is a simple Flask project for posting content. It provides a basic web interface where users can create and view content entries.
@@ -15,3 +17,5 @@ This is a simple Flask project for posting content. It provides a basic web inte
 3. Navigate to the project directory:
 4. cd flask_minipr
 5. pip install -r requirements.txt
+6. Run the application:
+7. flask run
