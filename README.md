@@ -13,9 +13,9 @@ This is a simple Flask project for posting content. It provides a basic web inte
 ## Installation
 
 1. Clone the repository:
-   -git clone https://github.com/RuslanHamidov/flask_minipr.git
+   - git clone https://github.com/RuslanHamidov/flask_minipr.git
 2. Navigate to the project directory:
-   -cd flask_minipr
+   - cd flask_minipr
 3. pip install -r requirements.txt
 4. Run the application:
-   -flask run
+   - flask run
